@@ -563,7 +563,7 @@ body.home-intro .intro {
   display: inline-block;
   max-width: 1224px;
   margin: auto;
-  padding: 4em 2em;
+  /*padding: 4em 2em;*/
 }
 @media screen and (min-width: 768px) {
   .intro-in {
@@ -883,7 +883,7 @@ body.navigation-is-open .menu-burger {
 
 .post-header {
   margin-bottom: 2em;
-  padding: 5em 2em;
+  /*padding: 5em 2em;*/
 }
 
 .post-title,
